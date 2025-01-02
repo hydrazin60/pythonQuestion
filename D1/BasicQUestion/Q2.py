@@ -1,4 +1,4 @@
-# # Write a program to calculate the sum of all even numbers from 1 to 100.
+# # Write a program to calculate the sum of all even numbers from 1 to 10.
 i = 0
 sum = 0
 while i < 10:
