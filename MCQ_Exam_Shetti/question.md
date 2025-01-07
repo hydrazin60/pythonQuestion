@@ -87,8 +87,8 @@
 ### 15. Which of the following binary numbers is equivalent to the octal number 17?
 - A) 1100
 - B) 10111
-- C) 1111
-- **D) 10001**
+- **C) 1111**
+- D) 10001
 
 ### 16. Which base is most commonly used in computer systems?
 - **A) Base 2**
