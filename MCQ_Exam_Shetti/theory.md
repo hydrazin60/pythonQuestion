@@ -177,11 +177,11 @@ Registers are an integral part of a CPU, acting as small, fast storage locations
 ## 2. Types of Registers
 Registers can be categorized based on their specific purpose:
 
-### a. Data Registers
+### a. memory Data Registers
    - Hold data being processed or transferred.
    - Example: **Accumulator (ACC)** stores intermediate results of arithmetic or logic operations.
 
-### b. Address Registers
+### b. memory Address Registers
    - Hold memory addresses used by the CPU to locate data or instructions in RAM.
    - Example: **Memory Address Register (MAR)** specifies the address for memory access.
 
